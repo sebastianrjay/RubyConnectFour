@@ -5,8 +5,8 @@ To play this game, clink the link at the right to download the ZIP file. Then
 unzip the downloaded file. Then open the command line and navigate to the
 ConnectFour directory, and run `ruby connect_four.rb` to begin playing.
 
-To run the specs, run `rpsec spec` from the ConnectFour directory. It may be
-necessary to install the RSpec gem first, via `gem install rspec` (from any
+To run the test suite, run `rpsec spec` from the ConnectFour directory. It may
+be necessary to install the RSpec gem first, via `gem install rspec` (from any
 directory).
 
 Players may define the grid's dimensions and the number of adjacent pieces
